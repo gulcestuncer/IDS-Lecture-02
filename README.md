@@ -1,4 +1,3 @@
 # IDS-Lecture-02
-Hello world.
+Hey world!
 This is my first repo.
-Hey hey!
